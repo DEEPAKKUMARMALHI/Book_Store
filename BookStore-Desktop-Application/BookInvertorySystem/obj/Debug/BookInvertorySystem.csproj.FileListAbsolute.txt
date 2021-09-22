@@ -1,0 +1,15 @@
+C:\Users\Deepak Kumar\Downloads\BookStore-Desktop-Application-master\BookInvertorySystem\bin\Debug\BookInvertorySystem.exe.config
+C:\Users\Deepak Kumar\Downloads\BookStore-Desktop-Application-master\BookInvertorySystem\obj\Debug\BookInvertorySystem.csprojResolveAssemblyReference.cache
+C:\Users\Deepak Kumar\Downloads\BookStore-Desktop-Application-master\BookInvertorySystem\obj\Debug\BookInvertorySystem.CustomerDashboard.resources
+C:\Users\Deepak Kumar\Downloads\BookStore-Desktop-Application-master\BookInvertorySystem\obj\Debug\BookInvertorySystem.Form1.resources
+C:\Users\Deepak Kumar\Downloads\BookStore-Desktop-Application-master\BookInvertorySystem\obj\Debug\BookInvertorySystem.Properties.Resources.resources
+C:\Users\Deepak Kumar\Downloads\BookStore-Desktop-Application-master\BookInvertorySystem\obj\Debug\BookInvertorySystem.ucAdd.resources
+C:\Users\Deepak Kumar\Downloads\BookStore-Desktop-Application-master\BookInvertorySystem\obj\Debug\BookInvertorySystem.ucPurchase.resources
+C:\Users\Deepak Kumar\Downloads\BookStore-Desktop-Application-master\BookInvertorySystem\obj\Debug\BookInvertorySystem.ucSearch.resources
+C:\Users\Deepak Kumar\Downloads\BookStore-Desktop-Application-master\BookInvertorySystem\obj\Debug\BookInvertorySystem.ucUpdate.resources
+C:\Users\Deepak Kumar\Downloads\BookStore-Desktop-Application-master\BookInvertorySystem\obj\Debug\BookInvertorySystem.UserPanel.resources
+C:\Users\Deepak Kumar\Downloads\BookStore-Desktop-Application-master\BookInvertorySystem\obj\Debug\BookInvertorySystem.csproj.GenerateResource.Cache
+C:\Users\Deepak Kumar\Downloads\BookStore-Desktop-Application-master\BookInvertorySystem\obj\Debug\BookInvertorySystem.exe
+C:\Users\Deepak Kumar\Downloads\BookStore-Desktop-Application-master\BookInvertorySystem\obj\Debug\BookInvertorySystem.pdb
+C:\Users\Deepak Kumar\Downloads\BookStore-Desktop-Application-master\BookInvertorySystem\bin\Debug\BookInvertorySystem.exe
+C:\Users\Deepak Kumar\Downloads\BookStore-Desktop-Application-master\BookInvertorySystem\bin\Debug\BookInvertorySystem.pdb
